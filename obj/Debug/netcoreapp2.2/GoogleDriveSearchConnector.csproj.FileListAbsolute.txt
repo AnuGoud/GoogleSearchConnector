@@ -1,0 +1,10 @@
+H:\GitHub\GoogleDriveSearchConnector\bin\Debug\netcoreapp2.2\GoogleDriveSearchConnector.deps.json
+H:\GitHub\GoogleDriveSearchConnector\bin\Debug\netcoreapp2.2\GoogleDriveSearchConnector.runtimeconfig.json
+H:\GitHub\GoogleDriveSearchConnector\bin\Debug\netcoreapp2.2\GoogleDriveSearchConnector.runtimeconfig.dev.json
+H:\GitHub\GoogleDriveSearchConnector\bin\Debug\netcoreapp2.2\GoogleDriveSearchConnector.dll
+H:\GitHub\GoogleDriveSearchConnector\bin\Debug\netcoreapp2.2\GoogleDriveSearchConnector.pdb
+H:\GitHub\GoogleDriveSearchConnector\obj\Debug\netcoreapp2.2\GoogleDriveSearchConnector.csprojAssemblyReference.cache
+H:\GitHub\GoogleDriveSearchConnector\obj\Debug\netcoreapp2.2\GoogleDriveSearchConnector.AssemblyInfoInputs.cache
+H:\GitHub\GoogleDriveSearchConnector\obj\Debug\netcoreapp2.2\GoogleDriveSearchConnector.AssemblyInfo.cs
+H:\GitHub\GoogleDriveSearchConnector\obj\Debug\netcoreapp2.2\GoogleDriveSearchConnector.dll
+H:\GitHub\GoogleDriveSearchConnector\obj\Debug\netcoreapp2.2\GoogleDriveSearchConnector.pdb

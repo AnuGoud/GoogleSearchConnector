@@ -1,0 +1,10 @@
+H:\GitHub\WorkPlaceConnector-master\bin\Debug\netcoreapp2.2\WorkPlaceConnector.deps.json
+H:\GitHub\WorkPlaceConnector-master\bin\Debug\netcoreapp2.2\WorkPlaceConnector.runtimeconfig.json
+H:\GitHub\WorkPlaceConnector-master\bin\Debug\netcoreapp2.2\WorkPlaceConnector.runtimeconfig.dev.json
+H:\GitHub\WorkPlaceConnector-master\bin\Debug\netcoreapp2.2\WorkPlaceConnector.dll
+H:\GitHub\WorkPlaceConnector-master\bin\Debug\netcoreapp2.2\WorkPlaceConnector.pdb
+H:\GitHub\WorkPlaceConnector-master\obj\Debug\netcoreapp2.2\WorkPlaceConnector.csprojAssemblyReference.cache
+H:\GitHub\WorkPlaceConnector-master\obj\Debug\netcoreapp2.2\WorkPlaceConnector.AssemblyInfoInputs.cache
+H:\GitHub\WorkPlaceConnector-master\obj\Debug\netcoreapp2.2\WorkPlaceConnector.AssemblyInfo.cs
+H:\GitHub\WorkPlaceConnector-master\obj\Debug\netcoreapp2.2\WorkPlaceConnector.dll
+H:\GitHub\WorkPlaceConnector-master\obj\Debug\netcoreapp2.2\WorkPlaceConnector.pdb
