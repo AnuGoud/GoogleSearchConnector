@@ -276,7 +276,10 @@ namespace GoogleDriveSearchConnector
                 var newItem = new ExternalItem
                 {
                     Id = part.RowID.ToString(),
-                    Content = part.FileName,
+                  Content = new PayloadContent
+                    {
+                        Value = "<html>" + part.FileName + "</html>"
+                    },
                     Acl = new List<Acl>
                     {
                         new Acl {
